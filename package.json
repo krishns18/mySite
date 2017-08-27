@@ -1,0 +1,32 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishns18/mySite.git"
+  },
+  "keywords": [
+    "resume",
+    "personal",
+    "website",
+    "cv",
+    "shailesh",
+    "krishna"
+  ],
+  "author": "shailesh krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishns18/mySite/issues"
+  },
+  "homepage": "https://github.com/krishns18/mySite#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.0.0",
+    "popper.js": "^1.12.3"
+  }
+}
