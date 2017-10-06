@@ -24,6 +24,15 @@ canvas{
   font-size: 14px;
   font-weight: 100;
 }
+li.main-social-icons {
+    display: inline;
+    margin-bottom: 25px;
+    font-size: 20px;
+    margin-right: 5%;
+}
+li.main-social-icons a {
+    color: #373739;
+}
 .navbar ul.nav > li > a:hover {
   border-top: solid 5px #e74c3c;
   color: #fff;
@@ -101,6 +110,9 @@ h5.alt-title {
 .alt-title {
     font-weight: 600;
     letter-spacing: 1px;
+}
+.above-main-social-icons {
+    margin-bottom: 20px;
 }
 
 .intro-title {
@@ -446,7 +458,7 @@ ul, ol {
 .timeline-heading span{
     display: block;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 12px;
     margin-bottom: 20px;
 }
 .timeline-body p {
@@ -474,7 +486,7 @@ ul, ol {
 
 .timeline>li .timeline-panel {
     float: left;
-    width: 41%;
+    width: 40%;
     /* text-align: right; */
     border: 1px solid #eee;
     position: relative;
